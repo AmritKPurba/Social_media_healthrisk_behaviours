@@ -98,7 +98,7 @@ Additive measures of interaction (cigarette use) - Linear regression with robust
 
 **Do file:**data02a_SCQ_imp_EMtable2a3a5a6a_vs1.do  
 **Description:**   
-Additive measure of effect modification (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
+Additive measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RR low PE/RR high PE)  
 Additive measures of interaction (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of interaction (cigarette use) - Poisson regression with robust standard errors (RR11/RR10*RR01)  
@@ -137,7 +137,7 @@ Additive measures of interaction (cigarette use) - Linear regression with robust
 
 **Do file:** data02b_TUD_cc_EMtable2a3a5a6a_vs3.do  
 **Description:**   
-Additive measure of effect modification (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
+Additive measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RR low PE/RR high PE)  
 Additive measures of interaction (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of interaction (cigarette use) - Poisson regression with robust standard errors (RR11/RR10*RR01)  
@@ -149,7 +149,7 @@ Additive measures of interaction (e-cigarette use) - Linear regression with robu
 
 **Do file:** data02b_TUD_cc_EMtable8a9a11a12a_vs3.do  
 **Description:**   
-Additive measure of effect modification (e-cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
+Additive measures of effect modification (e-cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of effect modification (e-cigarette use) - Poisson regression with robust standard errors (RR low PE/RR high PE)  
 Additive measures of interaction (e-cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of interaction (e-cigarette use) - Poisson regression with robust standard errors (RR11/RR10*RR01)  
@@ -172,7 +172,6 @@ Social media and e-cigarette use - logistic regression - additional adjustment f
 Social media and e-cigarette use - logistic regression - replacement of avg social media use with weekday social media use exposure variable  
 Social media and e-cigarette use - logistic regression - by sex   
 
-
 **Do file:** data02b_TUD_imp_2Ac_vs1.do
 **Description:** 
 Social media and dual-use - multinomial logistic regression 
@@ -188,7 +187,7 @@ Additive measures of interaction (cigarette use) - Linear regression with robust
 
 **Do file:** data02b_TUD_imp_EMtable2a3a5a6a_vs1.do  
 **Description:**  
-Additive measure of effect modification (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
+Additive measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RR low PE/RR high PE)   
 Additive measures of interaction (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of interaction (cigarette use) - Poisson regression with robust standard errors (RR11/RR10*RR01)  
@@ -221,14 +220,13 @@ Additive measure of interaction (binge drinking) - Linear regression with robust
 
 **Do file:** data03a_SCQ_cc_EMtable3Cb3Db_vs1.do      
 **Description:**    
-Multiplicative measure of effect modification (binge drinking) - Poisson regression with robust standard errors (RR high PE/RR low PE)     
+Multiplicative measures of effect modification (binge drinking) - Poisson regression with robust standard errors (RR high PE/RR low PE)     
 Multiplicative measures of interaction (binge drinking) - Poisson regression with robust standard errors (RR11/RR10*RR01)     
 
 **Do file:** data03a_SCQ_cc_EMtable3Cc3Dc_vs1.do      
 **Description:**    
-Additive measure of effect modification (binge drinking) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)    
+Additive measures of effect modification (binge drinking) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)    
 Additive measures of interaction (binge drinking) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)       
-
 
 ### Self-report imputed analyses
 
@@ -265,7 +263,7 @@ Additive measures of interaction (binge drinking) - Poisson regression with robu
 **Do file:** data03b_TUD_cc_2B_vs1.do    
 **Description:**   
 Social media and binge drinking - logistic regression  
-Social media  and alc. freq. last month – multinomial regression  
+Social media and alc. freq. last month – multinomial regression  
 
 **Do file:** data03b_TUD_cc_EMtable4Ca4Da_vs1.do    
 **Description:**   
@@ -274,7 +272,7 @@ Additive measures of interaction (binge drinking) - Linear regression with robus
 
 **Do file:** data03b_TUD_cc_EMtable4Cb4Db_vs1.do    
 **Description:**   
-Multiplicative measure of effect modification (binge drinking) - Poisson regression with robust standard errors (RR high PE/RR low PE)  
+Multiplicative measures of effect modification (binge drinking) - Poisson regression with robust standard errors (RR high PE/RR low PE)  
 Multiplicative measures of interaction (binge drinking) - Poisson regression with robust standard errors (RR11/RR10*RR01)  
 
 **Do file:** data03b_TUD_cc_EMtable4Cc4Dc_vs1.do      
