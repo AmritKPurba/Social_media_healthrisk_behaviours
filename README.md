@@ -55,7 +55,7 @@ Additive measures of effect modification (e-cigarette use) - Linear regression w
 **Description:**   
 Additive measures of interaction (e-cigarette use) - Linear regression with robust standard errors (RD11-(RD10+RD01))  
 
-**Do file:** data02a_SCQ_cc_EMtable9a_vs1.do  
+**Do file:** data02a_SCQ_cc_EMtable9a_vs1.do   
 **Description:**   
 Multiplicative measures of effect modification (e-cigarette use) - Poisson regression with robust standard errors (RR low PE/RR high PE)  
 
