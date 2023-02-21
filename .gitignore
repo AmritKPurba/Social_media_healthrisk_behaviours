@@ -1,3 +1,5 @@
 *.dta
 clean_all.sh
 *.log
+/test_run
+desktop.ini
