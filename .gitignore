@@ -1,0 +1,3 @@
+*.dta
+clean_all.sh
+*.log
