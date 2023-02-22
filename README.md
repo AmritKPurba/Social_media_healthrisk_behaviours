@@ -1,4 +1,6 @@
-# Social media and health-risk behaviours analytical Code
+# Social media and health-risk behaviours analytical code
+
+[![DOI](https://zenodo.org/badge/604615890.svg)](https://zenodo.org/badge/latestdoi/604615890)
 
 ## Summary
 This README file describes the do files for:  
