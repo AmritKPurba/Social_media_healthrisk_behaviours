@@ -157,7 +157,7 @@ Multiplicative measures of interaction (e-cigarette use) - Poisson regression wi
 ### Time use diary imputed analyses
 
 **Do file:**  data02b_TUD_imp_2Aa_vs1.do  
-**Description:**   
+**Description:**      
 Social media and cigarette use - logistic regression  
 Social media and cigarette use - logistic regression - additional adjustment for cigarette use (age 14)  
 Social media and cigarette use - logistic regression - additional adjustment for previous social media use (age 11)   
@@ -165,7 +165,7 @@ Social media and cigarette use - logistic regression - replacement of avg social
 Social media and cigarette use - logistic regression - by sex   
 
 **Do file:**  data02b_TUD_imp_2Ab_vs1.do
-**Description:** 
+**Description:**    
 Social media and e-cigarette use - logistic regression
 Social media and e-cigarette use - logistic regression - additional adjustment for e-cigarette use (age 14)   
 Social media and e-cigarette use - logistic regression - additional adjustment for previous social media use (age 11)   
@@ -173,7 +173,7 @@ Social media and e-cigarette use - logistic regression - replacement of avg soci
 Social media and e-cigarette use - logistic regression - by sex   
 
 **Do file:**  data02b_TUD_imp_2Ac_vs1.do
-**Description:** 
+**Description:**    
 Social media and dual-use - multinomial logistic regression 
 Social media and dual-use - multinomial logistic regression - additional adjustment for cigarette and e-cigarette use (age 14)   
 Social media and dual-use - multinomial logistic regression - additional adjustment for previous social media use (age 11)   
@@ -181,24 +181,24 @@ Social media and dual-use - multinomial logistic regression - replacement of avg
 Social media and dual-use - multinomial logistic regression - by sex   
 
 **Do file:**  data02b_TUD_imp_EMtable1a4a_vs1  
-**Description:**  
+**Description:**     
 Additive measures of effect modification (cigarette use) - Linear regression with robust standard errors (RD low PE-high PE)  
 Additive measures of interaction (cigarette use) - Linear regression with robust standard errors (RD11-(RD10+RD01))  
 
 **Do file:**  data02b_TUD_imp_EMtable2a3a5a6a_vs1.do  
-**Description:**  
+**Description:**     
 Additive measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of effect modification (cigarette use) - Poisson regression with robust standard errors (RR low PE/RR high PE)   
 Additive measures of interaction (cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of interaction (cigarette use) - Poisson regression with robust standard errors (RR11/RR10*RR01)  
 
 **Do file:**  data02b_TUD_imp_EMtable7a10a_vs1.do
-**Description:**
+**Description:**   
 Additive measures of effect modification (e-cigarette use)- Linear regression with robust standard errors (RD low PE-high PE)  
 Additive measures of interaction (e-cigarette use)- Linear regression with robust standard errors (RD11-(RD10+RD01))  
 
 **Do file:**  data02b_TUD_imp_EMtable8a9a11a12a_vs1.do
-**Description:**
+**Description:**   
 Additive measures of effect modification (e-cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
 Multiplicative measures of effect modification (e-cigarette use) - Poisson regression with robust standard errors (RR low PE/RR high PE)  
 Additive measures of interaction (e-cigarette use) - Poisson regression with robust standard errors (RERI=RR11-RR01-RR10+1)  
