@@ -1,4 +1,4 @@
-# Social media and health-risk behaviours analytical code
+# Social media and health-risk behaviours Analytical code
 
 [![DOI](https://zenodo.org/badge/604615890.svg)](https://zenodo.org/badge/latestdoi/604615890)
 
