@@ -1,5 +1,7 @@
 # Social media and health-risk behaviours analytical code
 
+[![DOI](https://zenodo.org/badge/604615890.svg)](https://zenodo.org/badge/latestdoi/604615890)
+
 ## Summary
 This README file describes the do files for:  
 (1) The relationship between time spent on social media and adolescent use of cigarettes, e-cigarettes and dual-use: a longitudinal analysis of the UK Millennium Cohort Study  
