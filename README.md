@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Social media and health-risk behaviours analytical code
 
 ## Summary
