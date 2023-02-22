@@ -156,7 +156,7 @@ Multiplicative measures of interaction (e-cigarette use) - Poisson regression wi
   
 ### Time use diary imputed analyses
 
-**Do file:**  data02b_TUD_imp_2Aa_vs1.do  
+**Do file:**  data02b_TUD_imp_2Aa_vs1.do    
 **Description:**      
 Social media and cigarette use - logistic regression  
 Social media and cigarette use - logistic regression - additional adjustment for cigarette use (age 14)  
@@ -164,7 +164,7 @@ Social media and cigarette use - logistic regression - additional adjustment for
 Social media and cigarette use - logistic regression - replacement of avg social media use with weekday social media use exposure variable  
 Social media and cigarette use - logistic regression - by sex   
 
-**Do file:**  data02b_TUD_imp_2Ab_vs1.do
+**Do file:**  data02b_TUD_imp_2Ab_vs1.do  
 **Description:**    
 Social media and e-cigarette use - logistic regression
 Social media and e-cigarette use - logistic regression - additional adjustment for e-cigarette use (age 14)   
@@ -172,8 +172,8 @@ Social media and e-cigarette use - logistic regression - additional adjustment f
 Social media and e-cigarette use - logistic regression - replacement of avg social media use with weekday social media use exposure variable  
 Social media and e-cigarette use - logistic regression - by sex   
 
-**Do file:**  data02b_TUD_imp_2Ac_vs1.do
-**Description:**    
+**Do file:**  data02b_TUD_imp_2Ac_vs1.do  
+**Description:**     
 Social media and dual-use - multinomial logistic regression 
 Social media and dual-use - multinomial logistic regression - additional adjustment for cigarette and e-cigarette use (age 14)   
 Social media and dual-use - multinomial logistic regression - additional adjustment for previous social media use (age 11)   
