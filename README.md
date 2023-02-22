@@ -1,4 +1,4 @@
-# Social media and health-risk behaviours analytical code
+# Social media and health-risk behaviours analytical Code
 
 ## Summary
 This README file describes the do files for:  
