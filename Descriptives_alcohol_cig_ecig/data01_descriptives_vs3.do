@@ -382,7 +382,7 @@ mi estimate: svy: proportion `varname'
 
 // Dataset: data01_SCQ_cc_alc.dta
 
-use "ALC\DATASETS\data01_SCQ_cc_alc.dta", clear
+use "Social_media_alcohol\DATASETS\data01_SCQ_cc_alc.dta", clear
 set seed 91705423
 
 * Should say (data unchanged since 25jan2023 09:43)
@@ -454,7 +454,7 @@ svy: proportion `varname'
 
 // Dataset: data01_TUD_cc_alc.dta
 
-use "ALC\DATASETS\data01_TUD_cc_alc.dta", clear
+use "Social_media_alcohol\DATASETS\data01_TUD_cc_alc.dta", clear
 set seed 9260678
 
 * Should say (data unchanged since 25jan2023 09:42)
@@ -524,7 +524,7 @@ svy: proportion `varname'
 
 // Dataset: data01_master_vs3_SCQ_imp_4_1.dta
 
-use "ALC\DATASETS\data01_master_vs3_SCQ_imp_4_1.dta", clear
+use "Social_media_alcohol\DATASETS\data01_master_vs3_SCQ_imp_4_1.dta", clear
 set seed 91703423
 
 // Should say  (data unchanged since 18jan2023 13:47)
@@ -640,7 +640,7 @@ mi estimate: svy: proportion `varname'
 
 // Dataset: data01_master_vs3_TUD_imp_3_1.dta
 
-use "ALC\DATASETS\data01_master_vs3_TUD_imp_3_1.dta", clear
+use "Social_media_alcohol\DATASETS\data01_master_vs3_TUD_imp_3_1.dta", clear
 set seed 91705423
 
 // Should say  (data unchanged since 19jan2023 12:47)

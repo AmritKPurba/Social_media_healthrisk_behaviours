@@ -29,7 +29,7 @@ set linesize 80
 set maxvar 100000
 set scheme sj
 
-use "ALC\DATASETS\data01_master_vs3_TUD_imp_3_1.dta", clear
+use "Social_media_alcohol\DATASETS\data01_master_vs3_TUD_imp_3_1.dta", clear
 set seed 9260589
 
 * Should say  (data unchanged since 19jan2023 12:47)
