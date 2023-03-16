@@ -21,7 +21,7 @@ set linesize 80
 set maxvar 100000
 set scheme sj
 
-use "CIG_ECIG\DATASETS\data01_SCQ_cc_vs1.dta", clear
+use "Social_media_cig_ecig\DATASETS\data01_SCQ_cc_vs1.dta", clear
 set seed 598370894
 
 *Should say (data unchanged since 18jan2023 14:22)
@@ -506,7 +506,7 @@ logit ecig_rBcc ib2.smscq_r5Ccc i.eth_r6Ccc i.famstr_r3Ccc ib5.hhinc_r5Ccc i.hie
 logit ecig_rBcc ib2.smscq_r5Ccc i.eth_r6Ccc i.famstr_r3Ccc ib5.hhinc_r5Ccc i.hied_CO7Ccc ib6.hiocc_CO6Ccc i.sex_rBcc i.parcursmk_CO2Ccc i.parstyCOcc i.prvcig_rBcc i.anti_COccim i.prvalc_rBcc i.urb_COcc  i.cmage6_3Ccc i.mag12_r4Ccc i.sibshh_5Ccc avg_inpact_COcc cogab_rcc sdqtotal_rnimpcc risk_rcc i.eng_D i.wales_D i.scot_D ib10.imd_COcc, baselevel
 
 *# We use dummy variables for country in our model to account for any variance in the measures used to assess IMD which may affect our estimates (remember we created a combined measure for IMD which combines all 4 IMD vars from each country). However we want to check if there is actually any variance between these countries which may affect our estimates. Multilevel model created, using country as a level. From the output we can see the variance is tiny, which suggests we dont even really need indicators for country, however will retain for now
-use "CIG_ECIG\DATASETS\data01_SCQ_cc_vs1.dta", clear
+use "Social_media_cig_ecig\DATASETS\data01_SCQ_cc_vs1.dta", clear
 melogit ecig_rBcc ib2.smscq_r5Ccc i.eth_r6Ccc i.famstr_r3Ccc ib5.hhinc_r5Ccc i.hied_CO7Ccc ib6.hiocc_CO6Ccc i.sex_rBcc i.parcursmk_CO2Ccc i.parstyCOcc i.prvcig_rBcc i.anti_COccim i.prvalc_rBcc i.urb_COcc i.cmage6_3Ccc i.mag12_r4Ccc i.sibshh_5Ccc avg_inpact_COcc cogab_rcc sdqtotal_rnimpcc risk_rcc ib10.imd_COcc || EACTRY00:
 
 ********************************************************************************

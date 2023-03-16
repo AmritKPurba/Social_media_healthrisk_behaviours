@@ -20,7 +20,7 @@ set linesize 80
 set maxvar 100000
 set scheme sj
 
-use "CIG_ECIG\DATASETS\data01_TUD_cc_vs3.dta", clear
+use "Social_media_cig_ecig\DATASETS\data01_TUD_cc_vs3.dta", clear
 set seed 9260678
 
 * Should say (data unchanged since 18jan2023 14:42)

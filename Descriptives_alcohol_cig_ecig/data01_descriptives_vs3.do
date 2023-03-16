@@ -31,7 +31,7 @@ set scheme sj
 
 // Dataset: data01_SCQ_cc_vs1.dta
 
-use "CIG_ECIG\DATASETS\data01_SCQ_cc_vs1.dta", clear
+use "Social_media_cig_ecig\DATASETS\data01_SCQ_cc_vs1.dta", clear
 
 set seed 91703423
 
@@ -105,7 +105,7 @@ svy: proportion `varname'
 
 // Dataset: data01_TUD_cc_vs3.dta
 
-use "CIG_ECIG\DATASETS\data01_TUD_cc_vs3.dta", clear
+use "Social_media_cig_ecig\DATASETS\data01_TUD_cc_vs3.dta", clear
 set seed 91703467
 
 // Should say (data unchanged since 18jan2023 14:42)
@@ -178,7 +178,7 @@ svy: proportion `varname'
 
 // Dataset: data01_master_vs3_SCQ_imp_4_1.dta
 
-use "CIG_ECIG\DATASETS\data01_master_vs3_SCQ_imp_4_1.dta", clear
+use "Social_media_cig_ecig\DATASETS\data01_master_vs3_SCQ_imp_4_1.dta", clear
 set seed 91703423
 
 // Should say (data unchanged since 18jan2023 13:47)
@@ -281,7 +281,7 @@ mi estimate: svy: proportion `varname'
 ********************************************************************************
 
 // Dataset: data01_master_vs3_TUD_imp_3_1.dta
-use "CIG_ECIG\DATASETS\data01_master_vs3_TUD_imp_3_1.dta", clear
+use "Social_media_cig_ecig\DATASETS\data01_master_vs3_TUD_imp_3_1.dta", clear
 set seed 91705423
 
 // Should say (data unchanged since 19jan2023 12:47)
